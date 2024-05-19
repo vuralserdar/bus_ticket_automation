@@ -1,0 +1,11 @@
+C:\Users\serka\source\repos\busticket_project\busticket_project\bin\Debug\busticket_project.exe.config
+C:\Users\serka\source\repos\busticket_project\busticket_project\bin\Debug\busticket_project.exe
+C:\Users\serka\source\repos\busticket_project\busticket_project\bin\Debug\busticket_project.pdb
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.customerlogin.resources
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.homepage.resources
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.Properties.Resources.resources
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.csproj.GenerateResource.cache
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.exe
+C:\Users\serka\source\repos\busticket_project\busticket_project\obj\Debug\busticket_project.pdb

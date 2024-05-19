@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serka\\source\\repos\\busticket_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|c:\\users\\serka\\source\\repos\\busticket_project\\busticket_project\\byticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\byticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\companyemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\companyemployeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|c:\\users\\serka\\source\\repos\\busticket_project\\busticket_project\\querryticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\querryticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|c:\\users\\serka\\source\\repos\\busticket_project\\busticket_project\\customersingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\customersingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\employeesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\employeesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\customerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\querryticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\querryticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\employeesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\employeesignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customersingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\customersingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\companyemployeelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\byticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\byticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\companyemployeepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48C0C640-E8F0-427A-B8EA-A1447CB0DD28}|busticket_project\\busticket_project.csproj|solutionrelative:busticket_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "byticket.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\byticket.cs",
+              "RelativeDocumentMoniker": "busticket_project\\byticket.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\byticket.cs",
+              "RelativeToolTip": "busticket_project\\byticket.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAA3wGgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:44:28.419Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "companyemployeepage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeepage.cs",
+              "RelativeDocumentMoniker": "busticket_project\\companyemployeepage.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeepage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\companyemployeepage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:38:32.245Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "companyemployeelogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeelogin.cs",
+              "RelativeDocumentMoniker": "busticket_project\\companyemployeelogin.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeelogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\companyemployeelogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:43.922Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "byticket.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\byticket.cs",
+              "RelativeDocumentMoniker": "busticket_project\\byticket.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\byticket.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\byticket.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:43:08.002Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "customerlogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerlogin.cs",
+              "RelativeDocumentMoniker": "busticket_project\\customerlogin.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerlogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\customerlogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:46.424Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "querryticket.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\querryticket.cs",
+              "RelativeDocumentMoniker": "busticket_project\\querryticket.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\querryticket.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\querryticket.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:32:30.797Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customersingup.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customersingup.cs",
+              "RelativeDocumentMoniker": "busticket_project\\customersingup.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customersingup.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\customersingup.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:33:17.921Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "employeesignup.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\employeesignup.cs",
+              "RelativeDocumentMoniker": "busticket_project\\employeesignup.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\employeesignup.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\employeesignup.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:47.842Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "homepage.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\homepage.cs",
+              "RelativeDocumentMoniker": "busticket_project\\homepage.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\homepage.cs",
+              "RelativeToolTip": "busticket_project\\homepage.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:38:07.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "homepage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\homepage.cs",
+              "RelativeDocumentMoniker": "busticket_project\\homepage.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\homepage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\homepage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:25:35.464Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "customerpage.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerpage.cs",
+              "RelativeDocumentMoniker": "busticket_project\\customerpage.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerpage.cs [Tasar\u0131m]",
+              "RelativeToolTip": "busticket_project\\customerpage.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:22:47.198Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "querryticket.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\querryticket.cs",
+              "RelativeDocumentMoniker": "busticket_project\\querryticket.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\querryticket.cs",
+              "RelativeToolTip": "busticket_project\\querryticket.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwCcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T09:56:41.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "employeesignup.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\employeesignup.cs",
+              "RelativeDocumentMoniker": "busticket_project\\employeesignup.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\employeesignup.cs",
+              "RelativeToolTip": "busticket_project\\employeesignup.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwDQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:01:10.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "customersingup.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customersingup.cs",
+              "RelativeDocumentMoniker": "busticket_project\\customersingup.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customersingup.cs",
+              "RelativeToolTip": "busticket_project\\customersingup.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwDYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:56:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "companyemployeelogin.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeelogin.cs",
+              "RelativeDocumentMoniker": "busticket_project\\companyemployeelogin.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeelogin.cs",
+              "RelativeToolTip": "busticket_project\\companyemployeelogin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:04:23.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "companyemployeepage.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeepage.cs",
+              "RelativeDocumentMoniker": "busticket_project\\companyemployeepage.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\companyemployeepage.cs",
+              "RelativeToolTip": "busticket_project\\companyemployeepage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwEEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:39:37.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "customerlogin.cs",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerlogin.cs",
+              "RelativeDocumentMoniker": "busticket_project\\customerlogin.cs",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\customerlogin.cs",
+              "RelativeToolTip": "busticket_project\\customerlogin.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:31:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\App.config",
+              "RelativeDocumentMoniker": "busticket_project\\App.config",
+              "ToolTip": "C:\\Users\\serka\\source\\repos\\busticket_project\\busticket_project\\App.config",
+              "RelativeToolTip": "busticket_project\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-12T21:50:49.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
